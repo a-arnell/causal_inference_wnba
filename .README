@@ -1,0 +1,1 @@
+Inspired by https://www.nber.org/system/files/working_papers/w13206/w13206.pdf, we will be using doubly-robust AIPTW estimation to consider the effect of referee demographics on the foul rates of WNBA players. This dataset includes data from 2021-2024.
