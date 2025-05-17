@@ -1,0 +1,48 @@
+# Environment and virtual environments
+wnba_env/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Wehoop package files if locally installed
+wehoop/
+
+# Test files and directories
+test/
+test.py
+*_test.py
+
+# Data files and directories - definitely include these
+data/
+game_data/
+*.csv
+*.json
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.h5
+
+# API keys and sensitive information
+*.key
+*_config.py
+config.py
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+wehoop/
